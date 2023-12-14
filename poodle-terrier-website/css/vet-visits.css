@@ -40,15 +40,8 @@ nav ul li a:hover{
 	color: pink;
 } 
 
-.image1{
+.image4{
 	float: left;
 	position: absolute;
 	top: 200px; left: 500px;
 } 
-
-.image2{
-	float: left;
-	position: absolute;
-	top: 525px; left: 475px;
-}
-	
