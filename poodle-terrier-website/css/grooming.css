@@ -1,11 +1,13 @@
 /* This is a comment */
 
+/*font*/
 @font-face {
 	font-family: 'robotoregular';
 	src: url('../fonts/Roboto_Open-webfont.eot');
 	src: url('../fonts/Roboto_Open-webfont.woff');
 }
 
+/*h*/
 h2, h1{
 	color: #0097b2;
 	font-family: robotoregular, roboto, sans-serif; 
@@ -13,6 +15,7 @@ h2, h1{
 	text-align: center
 }
 
+/*nav bar*/
 nav ul li{
 	color: #9900ff;
 	font-family: robotoregular, roboto, sans-serif;
@@ -24,6 +27,7 @@ nav ul li{
 	left: 240px
 }
 
+/*body*/
 p{
 	font-family: robotoregular, roboto, sans-serif;
 	font-size: 16px;
@@ -31,6 +35,7 @@ p{
 	left: 700px;
 }
 
+/*nav bar*/
 nav ul li a{
 	color: #9900ff;
 	text-decoration: none;
@@ -40,6 +45,7 @@ nav ul li a:hover{
 	color: pink;
 } 
 
+/*image*/
 .image3{
 	float: left;
 	position: absolute;
